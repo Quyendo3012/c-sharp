@@ -1,0 +1,11 @@
+D:\c#\De_CuaHangXe\bin\Debug\De_CuaHangXe.exe.config
+D:\c#\De_CuaHangXe\bin\Debug\De_CuaHangXe.exe
+D:\c#\De_CuaHangXe\bin\Debug\De_CuaHangXe.pdb
+D:\c#\De_CuaHangXe\obj\Debug\De_CuaHangXe.csproj.AssemblyReference.cache
+D:\c#\De_CuaHangXe\obj\Debug\De_CuaHangXe.csproj.SuggestedBindingRedirects.cache
+D:\c#\De_CuaHangXe\obj\Debug\De_CuaHangXe.Form1.resources
+D:\c#\De_CuaHangXe\obj\Debug\De_CuaHangXe.Properties.Resources.resources
+D:\c#\De_CuaHangXe\obj\Debug\De_CuaHangXe.csproj.GenerateResource.cache
+D:\c#\De_CuaHangXe\obj\Debug\De_CuaHangXe.csproj.CoreCompileInputs.cache
+D:\c#\De_CuaHangXe\obj\Debug\De_CuaHangXe.exe
+D:\c#\De_CuaHangXe\obj\Debug\De_CuaHangXe.pdb

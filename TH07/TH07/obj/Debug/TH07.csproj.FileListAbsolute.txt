@@ -1,0 +1,35 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\bin\Debug\TH07.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\bin\Debug\TH07.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\bin\Debug\TH07.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.FormWelcome.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.thongtinsinhvien.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.Danhmucmonhoc.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.DanhMucKhoa.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.FormXemDiem.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.FormXemThongTinTheoKhoa.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH07\TH07\obj\Debug\TH07.NhapDiem.resources
+D:\c#\TH07\TH07\bin\Debug\TH07.exe.config
+D:\c#\TH07\TH07\bin\Debug\TH07.exe
+D:\c#\TH07\TH07\bin\Debug\TH07.pdb
+D:\c#\TH07\TH07\obj\Debug\TH07.csproj.AssemblyReference.cache
+D:\c#\TH07\TH07\obj\Debug\TH07.csproj.SuggestedBindingRedirects.cache
+D:\c#\TH07\TH07\obj\Debug\TH07.DanhMucKhoa.resources
+D:\c#\TH07\TH07\obj\Debug\TH07.Danhmucmonhoc.resources
+D:\c#\TH07\TH07\obj\Debug\TH07.Form1.resources
+D:\c#\TH07\TH07\obj\Debug\TH07.FormWelcome.resources
+D:\c#\TH07\TH07\obj\Debug\TH07.FormXemDiem.resources
+D:\c#\TH07\TH07\obj\Debug\TH07.FormXemThongTinTheoKhoa.resources
+D:\c#\TH07\TH07\obj\Debug\TH07.NhapDiem.resources
+D:\c#\TH07\TH07\obj\Debug\TH07.Properties.Resources.resources
+D:\c#\TH07\TH07\obj\Debug\TH07.thongtinsinhvien.resources
+D:\c#\TH07\TH07\obj\Debug\TH07.csproj.GenerateResource.cache
+D:\c#\TH07\TH07\obj\Debug\TH07.csproj.CoreCompileInputs.cache
+D:\c#\TH07\TH07\obj\Debug\TH07.exe
+D:\c#\TH07\TH07\obj\Debug\TH07.pdb

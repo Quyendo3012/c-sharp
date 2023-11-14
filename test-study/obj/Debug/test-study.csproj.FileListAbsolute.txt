@@ -1,0 +1,12 @@
+D:\c#\test-study\bin\Debug\test-study.exe.config
+D:\c#\test-study\bin\Debug\test-study.exe
+D:\c#\test-study\bin\Debug\test-study.pdb
+D:\c#\test-study\obj\Debug\test-study.csproj.AssemblyReference.cache
+D:\c#\test-study\obj\Debug\test-study.csproj.SuggestedBindingRedirects.cache
+D:\c#\test-study\obj\Debug\test_study.About.resources
+D:\c#\test-study\obj\Debug\test_study.Home.resources
+D:\c#\test-study\obj\Debug\test_study.Properties.Resources.resources
+D:\c#\test-study\obj\Debug\test-study.csproj.GenerateResource.cache
+D:\c#\test-study\obj\Debug\test-study.csproj.CoreCompileInputs.cache
+D:\c#\test-study\obj\Debug\test-study.exe
+D:\c#\test-study\obj\Debug\test-study.pdb

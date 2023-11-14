@@ -1,0 +1,11 @@
+D:\c#\De_QLCB\bin\Debug\De_QLCB.exe.config
+D:\c#\De_QLCB\bin\Debug\De_QLCB.exe
+D:\c#\De_QLCB\bin\Debug\De_QLCB.pdb
+D:\c#\De_QLCB\obj\Debug\De_QLCB.csproj.AssemblyReference.cache
+D:\c#\De_QLCB\obj\Debug\De_QLCB.csproj.SuggestedBindingRedirects.cache
+D:\c#\De_QLCB\obj\Debug\De_QLCB.Form1.resources
+D:\c#\De_QLCB\obj\Debug\De_QLCB.Properties.Resources.resources
+D:\c#\De_QLCB\obj\Debug\De_QLCB.csproj.GenerateResource.cache
+D:\c#\De_QLCB\obj\Debug\De_QLCB.csproj.CoreCompileInputs.cache
+D:\c#\De_QLCB\obj\Debug\De_QLCB.exe
+D:\c#\De_QLCB\obj\Debug\De_QLCB.pdb

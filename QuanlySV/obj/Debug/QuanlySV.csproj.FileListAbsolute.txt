@@ -1,0 +1,36 @@
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\bin\Debug\QuanlySV.exe.config
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\bin\Debug\QuanlySV.exe
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\bin\Debug\QuanlySV.pdb
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.Form1.resources
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.exe
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.pdb
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.About.resources
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.Nhapdiem.resources
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.TkKhoa.resources
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.Xemdiem.resources
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.SinhVien.resources
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.Khoa.resources
+C:\Users\Admin\OneDrive - Thuyloi University\Máy tính\ProjectC#\QuanlySV\QuanlySV\obj\Debug\QuanlySV.MonHoc.resources
+D:\c#\QuanlySV\bin\Debug\QuanlySV.exe.config
+D:\c#\QuanlySV\bin\Debug\QuanlySV.exe
+D:\c#\QuanlySV\bin\Debug\QuanlySV.pdb
+D:\c#\QuanlySV\obj\Debug\QuanlySV.csproj.AssemblyReference.cache
+D:\c#\QuanlySV\obj\Debug\QuanlySV.csproj.SuggestedBindingRedirects.cache
+D:\c#\QuanlySV\obj\Debug\QuanlySV.About.resources
+D:\c#\QuanlySV\obj\Debug\QuanlySV.Form1.resources
+D:\c#\QuanlySV\obj\Debug\QuanlySV.Khoa.resources
+D:\c#\QuanlySV\obj\Debug\QuanlySV.MonHoc.resources
+D:\c#\QuanlySV\obj\Debug\QuanlySV.Nhapdiem.resources
+D:\c#\QuanlySV\obj\Debug\QuanlySV.Properties.Resources.resources
+D:\c#\QuanlySV\obj\Debug\QuanlySV.SinhVien.resources
+D:\c#\QuanlySV\obj\Debug\QuanlySV.TkKhoa.resources
+D:\c#\QuanlySV\obj\Debug\QuanlySV.Xemdiem.resources
+D:\c#\QuanlySV\obj\Debug\QuanlySV.csproj.GenerateResource.cache
+D:\c#\QuanlySV\obj\Debug\QuanlySV.csproj.CoreCompileInputs.cache
+D:\c#\QuanlySV\obj\Debug\QuanlySV.exe
+D:\c#\QuanlySV\obj\Debug\QuanlySV.pdb
